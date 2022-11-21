@@ -1,4 +1,4 @@
-from shares import *
+from shares import Shares
 from player import Player
 import datetime
 import time
